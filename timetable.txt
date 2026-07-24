@@ -1,0 +1,55 @@
+Day 1 (5–6 hours)
+
+Variables (var, let, const)
+Data Types
+Type Conversion
+Operators
+Strings
+Practice: 15–20 small programs
+
+Day 2 (5–6 hours)
+
+If-else
+Switch
+Loops (for, while, do-while)
+Break & Continue
+Practice: 20 loop questions
+
+Day 3 (5–6 hours)
+
+Functions
+Arrow Functions
+Scope
+Hoisting
+Practice: 15 function problems
+
+Day 4 (5–6 hours)
+
+Arrays
+Array Methods
+Objects
+Practice: 20 array/object questions
+
+Day 5 (5–6 hours)
+
+DOM
+Events
+Event Listeners
+Build:
+Counter App
+Color Changer
+BMI Calculator
+
+Day 6 (5–6 hours)
+
+Async JavaScript
+Promises
+Fetch API
+API Project
+
+Day 7 (6–8 hours)
+Build 3 mini projects:
+
+To-Do App
+Digital Clock
+Weather App
