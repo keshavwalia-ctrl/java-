@@ -48,3 +48,5 @@ const max= 20
 console.log(Math.floor((Math.random()* (max-min + 1) + min)))
 // random()gives value between 0 and 1 
 //  +min is used to get value above 10
+
+console.log(Math.floor(Math.random()*(max-min+1)+min))
