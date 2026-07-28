@@ -36,3 +36,9 @@ jsuser.greeting2 = function(){
 }
 console.log(jsuser.greeting2())
 //object values are mostly accessed by . 
+
+const target={name:"keshav",age:20}
+const source={name:"rahul",age:40}
+
+const return_target=Object.assign(target,source)
+console.log(return_target)
