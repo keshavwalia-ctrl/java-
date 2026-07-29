@@ -10,8 +10,4 @@ const {courseinstructer:instructer} = course
 // get the single output 
 console.log(instructer)
 
-{
-    "name":"keshav",
-    "age":"20",
-}
-// this is a json  
+
