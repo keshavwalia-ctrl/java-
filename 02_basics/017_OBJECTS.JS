@@ -49,4 +49,11 @@ db[1].email
 console.log(Object.entries(tinderuser))
 // entries is used to convert object into arrat 
 
- 
+
+const course={
+    coursename:"js tutorial",
+    price:"999",
+    courseinstructer:"hitesh"
+}
+const {courseinstructer} = course 
+console.log(courseinstructer)
